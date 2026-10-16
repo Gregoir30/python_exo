@@ -8,3 +8,4 @@
 6. **Effectuez** le calcul en fonction de la valeur de `operation` (à l'aide des structures conditionnelles `if` / `elif` / `else`) et stockez le résultat dans la variable `resultat`.
 7. Attention, il est **impossible** de diviser un nombre par **0**, il faut donc prévoir une structure conditionnelle supplémentaire pour quitter le programme si le deuxième nombre est `0` lors d'une division.
 8. **Affichez** le `resultat` arrondi à 2 décimales avec `round()`.
+

@@ -7,3 +7,4 @@
 5. **Demandez** à l'utilisateur de saisir le nombre d'heures travaillées par semaine (`float(input(...))`).
 6. **Appelez** les fonctions précédemment créées pour calculer le salaire horaire correspondant.
 7. **Affichez** le résultat sous la forme : `"Votre salaire horaire est de XX euros."`.
+

@@ -7,3 +7,4 @@
 5. **Calculez** et **affichez** la **moyenne** des nombres dans la liste.
 6. **Calculez** et **affichez** le nombre de nombres dans la liste qui sont **supérieurs à la moyenne**.
 7. **Calculez** et **affichez** le nombre de nombres dans la liste qui sont **pairs**.
+

@@ -9,3 +9,4 @@
 5. **Affichez** les informations extraites des produits.
 6. **Convertissez** les prix en euros (`€`) en dollars (`$`) avec un taux de conversion de `1.2` (`prix * 1.2`), et ajoutez cette valeur sous la clé `"prix_dollar"` pour chaque produit.
 7. **Affichez** le dictionnaire final contenant tous les produits avec leurs prix en dollars.
+
