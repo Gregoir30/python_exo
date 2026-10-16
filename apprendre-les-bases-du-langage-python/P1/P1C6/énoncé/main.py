@@ -11,6 +11,10 @@ print(fruit[0])
 fruit.remove("banana")
 print(fruit)
 
+# supprimer avec del
+del fruit[0]
+print(fruit)
+
 # modifier le fruit 2 de la liste
 print("le fruit 2 de notre liste est :", fruit[1])
 
@@ -26,7 +30,8 @@ print(fruit)
 
 
 langage = "Python"
-# langage[3] = "v" # Erreur car les chaînes de caractères sont immuables
+langage = langage[:3] + "v" + langage[4:]
+print(langage)
 print(langage[3])
 print(langage[0:3]) # affiche les 3 premiers caractères
 print(langage[3:]) # affiche à partir du 4ème caractère
